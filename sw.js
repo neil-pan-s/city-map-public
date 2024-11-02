@@ -81,46 +81,46 @@ define(['./workbox-99d8380f'], (function (workbox) { 'use strict';
    * See https://goo.gl/S9QRab
    */
   workbox.precacheAndRoute([{
-    "url": "assets/app-CWrlje2l.js",
+    "url": "assets/app-Bx0gTu8y.js",
     "revision": null
   }, {
-    "url": "assets/Bhg5fXSR.js",
+    "url": "assets/b3lcqSKP.css",
     "revision": null
   }, {
-    "url": "assets/BNgXFa6G.css",
-    "revision": null
-  }, {
-    "url": "assets/BQW84eNS.js",
+    "url": "assets/BgInx3M7.js",
     "revision": null
   }, {
     "url": "assets/BSI_Tgee.css",
     "revision": null
   }, {
-    "url": "assets/C9W4uBwm.js",
+    "url": "assets/C534fh0y.css",
+    "revision": null
+  }, {
+    "url": "assets/CkTR5aAB.js",
     "revision": null
   }, {
     "url": "assets/CLRr_23I.css",
     "revision": null
   }, {
-    "url": "assets/CnZRkjtH.css",
+    "url": "assets/CU-bUi-P.js",
     "revision": null
   }, {
-    "url": "assets/CVwZYHzM.js",
+    "url": "assets/DOFqToI2.js",
     "revision": null
   }, {
-    "url": "assets/Cxe2nhzf.css",
+    "url": "assets/Dsal_9iw.css",
     "revision": null
   }, {
-    "url": "assets/DYcAjd08.js",
+    "url": "assets/DU1oMY9w.js",
     "revision": null
   }, {
-    "url": "assets/mQ8RZZgb.css",
+    "url": "assets/Dzpi3DOe.css",
     "revision": null
   }, {
-    "url": "assets/oGI287sw.js",
+    "url": "assets/MPgVtzez.js",
     "revision": null
   }, {
-    "url": "assets/painting-P9R7iKIH.jpg",
+    "url": "assets/painting-B64u3m_h.jpg",
     "revision": null
   }, {
     "url": "assets/wx-Bfv1OeoY.png",
@@ -220,25 +220,25 @@ define(['./workbox-99d8380f'], (function (workbox) { 'use strict';
     "revision": "2bbf6ea9de5ab6ad14047e78d9554593"
   }, {
     "url": "404.html",
-    "revision": "ef6840060b86f2aee40fd4e4a51df6be"
+    "revision": "7231ad7a35cff2fbdab5d20f1947da7b"
   }, {
     "url": "about.html",
-    "revision": "e8e97d1a78d48f293db69c5c7d8b3f48"
+    "revision": "1e096b48a687719fbd3a419747cf9e51"
   }, {
     "url": "index.html",
-    "revision": "4709714b1a8fadcb76e16789295b98c8"
+    "revision": "864675f37bb1838976a050461eeb0e6e"
   }, {
     "url": "map.html",
-    "revision": "db0c10bde5369f69b62da8e18fc8a8ab"
+    "revision": "5a4bfdaa64f77b08a3312e17f9cdc078"
   }, {
     "url": "painting.html",
-    "revision": "f4bd506754f3e889c0bc81a91fe1a473"
+    "revision": "bdd8f6684a9879be30915e879ef97ec4"
   }, {
     "url": "registerSW.js",
     "revision": "1872c500de691dce40960bb85481de07"
   }, {
     "url": "style.html",
-    "revision": "682eceffba766bed6d33dcdeb6eb6879"
+    "revision": "80e81e3c3400bd27ef099bb9bf944b8e"
   }, {
     "url": "icons/pwa-192x192.png",
     "revision": "77cdae4e641205cef2d05d8d100be148"
@@ -247,7 +247,7 @@ define(['./workbox-99d8380f'], (function (workbox) { 'use strict';
     "revision": "bc5c19c5268ad7007dda61050d5c4359"
   }, {
     "url": "manifest.webmanifest",
-    "revision": "152ea86aa2485e98c60e58d27ba16301"
+    "revision": "f27f994294f334804fd797c073776b68"
   }], {});
   workbox.cleanupOutdatedCaches();
   workbox.registerRoute(new workbox.NavigationRoute(workbox.createHandlerBoundToURL("index.html")));

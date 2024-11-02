@@ -5,7 +5,7 @@
             https://city-map.cn/
         </loc>
         <lastmod>
-            2024-11-02T08:30:31.908Z
+            2024-11-02T12:21:26.074Z
         </lastmod>
         <changefreq>
             daily
@@ -19,7 +19,7 @@
             https://city-map.cn/map
         </loc>
         <lastmod>
-            2024-11-02T08:30:31.908Z
+            2024-11-02T12:21:26.074Z
         </lastmod>
         <changefreq>
             daily
@@ -33,7 +33,7 @@
             https://city-map.cn/style
         </loc>
         <lastmod>
-            2024-11-02T08:30:31.908Z
+            2024-11-02T12:21:26.074Z
         </lastmod>
         <changefreq>
             daily
@@ -47,7 +47,21 @@
             https://city-map.cn/painting
         </loc>
         <lastmod>
-            2024-11-02T08:30:31.908Z
+            2024-11-02T12:21:26.074Z
+        </lastmod>
+        <changefreq>
+            daily
+        </changefreq>
+        <priority>
+            1.0
+        </priority>
+    </url>
+    <url>
+        <loc>
+            https://city-map.cn/about
+        </loc>
+        <lastmod>
+            2024-11-02T12:21:26.074Z
         </lastmod>
         <changefreq>
             daily
