@@ -81,46 +81,46 @@ define(['./workbox-99d8380f'], (function (workbox) { 'use strict';
    * See https://goo.gl/S9QRab
    */
   workbox.precacheAndRoute([{
-    "url": "assets/app-Bx0gTu8y.js",
+    "url": "assets/app-Ra2mZT7I.js",
     "revision": null
   }, {
-    "url": "assets/b3lcqSKP.css",
-    "revision": null
-  }, {
-    "url": "assets/BgInx3M7.js",
+    "url": "assets/BHP_GcrQ.js",
     "revision": null
   }, {
     "url": "assets/BSI_Tgee.css",
     "revision": null
   }, {
-    "url": "assets/C534fh0y.css",
-    "revision": null
-  }, {
-    "url": "assets/CkTR5aAB.js",
+    "url": "assets/ClFFG0WU.js",
     "revision": null
   }, {
     "url": "assets/CLRr_23I.css",
     "revision": null
   }, {
-    "url": "assets/CU-bUi-P.js",
+    "url": "assets/CsX3sw5L.js",
     "revision": null
   }, {
-    "url": "assets/DOFqToI2.js",
+    "url": "assets/CzRcPWoh.css",
     "revision": null
   }, {
     "url": "assets/Dsal_9iw.css",
     "revision": null
   }, {
-    "url": "assets/DU1oMY9w.js",
+    "url": "assets/DsT1jJ1M.js",
     "revision": null
   }, {
     "url": "assets/Dzpi3DOe.css",
     "revision": null
   }, {
-    "url": "assets/MPgVtzez.js",
+    "url": "assets/HNm-no3y.css",
     "revision": null
   }, {
     "url": "assets/painting-B64u3m_h.jpg",
+    "revision": null
+  }, {
+    "url": "assets/rOK9dXp-.js",
+    "revision": null
+  }, {
+    "url": "assets/Vjlzxw2e.js",
     "revision": null
   }, {
     "url": "assets/wx-Bfv1OeoY.png",
@@ -152,9 +152,6 @@ define(['./workbox-99d8380f'], (function (workbox) { 'use strict';
   }, {
     "url": "icons/pwa-64x64.png",
     "revision": "c75705b08ad0088aa5945321e97a5bd2"
-  }, {
-    "url": "images/intro.mp4",
-    "revision": "cda75b7504affcdcceb1599964e2b480"
   }, {
     "url": "images/painting-01.jpg",
     "revision": "73a92f67baf8172b9a6ed3e000722ab2"
@@ -220,25 +217,25 @@ define(['./workbox-99d8380f'], (function (workbox) { 'use strict';
     "revision": "2bbf6ea9de5ab6ad14047e78d9554593"
   }, {
     "url": "404.html",
-    "revision": "7231ad7a35cff2fbdab5d20f1947da7b"
+    "revision": "6948db06c6370c7222b24aba451bd342"
   }, {
     "url": "about.html",
-    "revision": "1e096b48a687719fbd3a419747cf9e51"
+    "revision": "f0e82e08ab2288b62f1086b6ab6a102c"
   }, {
     "url": "index.html",
-    "revision": "864675f37bb1838976a050461eeb0e6e"
+    "revision": "aec2d2c1dacd3c4d4e03d47798eb4e02"
   }, {
     "url": "map.html",
-    "revision": "5a4bfdaa64f77b08a3312e17f9cdc078"
+    "revision": "2fbc1d4b0c26c17ca3e94f6f24ef9671"
   }, {
     "url": "painting.html",
-    "revision": "bdd8f6684a9879be30915e879ef97ec4"
+    "revision": "ea530fbeb9eb25808411ad0d8eee0dd0"
   }, {
     "url": "registerSW.js",
     "revision": "1872c500de691dce40960bb85481de07"
   }, {
     "url": "style.html",
-    "revision": "80e81e3c3400bd27ef099bb9bf944b8e"
+    "revision": "6b1bad283c7a2cac82ae0982d2ac6704"
   }, {
     "url": "icons/pwa-192x192.png",
     "revision": "77cdae4e641205cef2d05d8d100be148"
