@@ -81,49 +81,49 @@ define(['./workbox-99d8380f'], (function (workbox) { 'use strict';
    * See https://goo.gl/S9QRab
    */
   workbox.precacheAndRoute([{
-    "url": "assets/app-Ra2mZT7I.js",
+    "url": "assets/app-Lb4mGk0L.js",
     "revision": null
   }, {
-    "url": "assets/BHP_GcrQ.js",
+    "url": "assets/BRvxxXu7.js",
     "revision": null
   }, {
     "url": "assets/BSI_Tgee.css",
     "revision": null
   }, {
-    "url": "assets/ClFFG0WU.js",
+    "url": "assets/C7vmkVDi.js",
     "revision": null
   }, {
     "url": "assets/CLRr_23I.css",
     "revision": null
   }, {
-    "url": "assets/CsX3sw5L.js",
+    "url": "assets/CQaWNkEQ.js",
     "revision": null
   }, {
     "url": "assets/CzRcPWoh.css",
     "revision": null
   }, {
+    "url": "assets/DIAYk5yU.css",
+    "revision": null
+  }, {
+    "url": "assets/DPhqPqqj.js",
+    "revision": null
+  }, {
     "url": "assets/Dsal_9iw.css",
     "revision": null
   }, {
-    "url": "assets/DsT1jJ1M.js",
+    "url": "assets/DyPB1veV.js",
     "revision": null
   }, {
     "url": "assets/Dzpi3DOe.css",
     "revision": null
   }, {
-    "url": "assets/HNm-no3y.css",
-    "revision": null
-  }, {
     "url": "assets/painting-B64u3m_h.jpg",
     "revision": null
   }, {
-    "url": "assets/rOK9dXp-.js",
-    "revision": null
-  }, {
-    "url": "assets/Vjlzxw2e.js",
-    "revision": null
-  }, {
     "url": "assets/wx-Bfv1OeoY.png",
+    "revision": null
+  }, {
+    "url": "assets/xO2ILT72.js",
     "revision": null
   }, {
     "url": "assets/yxV-6kRm.css",
@@ -217,25 +217,25 @@ define(['./workbox-99d8380f'], (function (workbox) { 'use strict';
     "revision": "2bbf6ea9de5ab6ad14047e78d9554593"
   }, {
     "url": "404.html",
-    "revision": "6948db06c6370c7222b24aba451bd342"
+    "revision": "e95a99b15b7959cc7862f6ba7ac6e3d4"
   }, {
     "url": "about.html",
-    "revision": "f0e82e08ab2288b62f1086b6ab6a102c"
+    "revision": "e3b12621d3ce432111c42c50360ca2bc"
   }, {
     "url": "index.html",
-    "revision": "aec2d2c1dacd3c4d4e03d47798eb4e02"
+    "revision": "271a63669967eefb4cc538b1944f7f17"
   }, {
     "url": "map.html",
-    "revision": "2fbc1d4b0c26c17ca3e94f6f24ef9671"
+    "revision": "fb241e2256972d8ffe605f78f576e3bb"
   }, {
     "url": "painting.html",
-    "revision": "ea530fbeb9eb25808411ad0d8eee0dd0"
+    "revision": "44937b77f8a2e63c6cf9aad693c1c94a"
   }, {
     "url": "registerSW.js",
     "revision": "1872c500de691dce40960bb85481de07"
   }, {
     "url": "style.html",
-    "revision": "6b1bad283c7a2cac82ae0982d2ac6704"
+    "revision": "665233087ae4b6dc71f38425a07f5a49"
   }, {
     "url": "icons/pwa-192x192.png",
     "revision": "77cdae4e641205cef2d05d8d100be148"
